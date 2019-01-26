@@ -1,0 +1,5 @@
+1) Once github.com 'da yeni repository acilir.
+2) Sonra R Studyo da New Project olusturma ekraninda, "Checkout from Git Repository" secilir
+3) Github'da olusturulan repository nin URL i, yeni proje ekjraninda yazilir.
+4) Projemize ekleyecegimiz dosyalar, yeni olusturulan folder 'in altina eklenir.
+5) R Studyo'da Git Commit yapilir ( Commit mesaji unutulmamali ) , sonra da "Push" edilir.
